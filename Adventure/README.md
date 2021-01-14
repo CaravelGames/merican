@@ -3,9 +3,8 @@ This repo preserves the source and history of "THE 'MERICAN ADVENTURE",
 a KROZ/ZZT-inspired DOS game written by Mike Rimer in Turbo Pascal 7 in the '90s.
 
 It was the third in a series, succeeding earlier titles called
-"THE 'MERICAN CITY" and "THE 'MERICAN QUEST". The first two games may now
-be lost to time. A fourth game, "THE 'MERICAN SORCERER", was in early
-development but never completed.
+"THE 'MERICAN CITY" and "THE 'MERICAN QUEST". A fourth game,
+"THE 'MERICAN SORCERER", was in early development but never completed.
 
 You should be able to compile and modify the source with a TP7 compiler.
 
